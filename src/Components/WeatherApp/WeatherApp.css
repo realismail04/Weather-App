@@ -23,6 +23,40 @@ body, html {
     .container {
         border-radius: 0;
     }
+
+    .weather-temp {
+        font-size: 12vw; /* Increase font size for weather temperature */
+    }
+
+    .weather-location {
+        font-size: 6vw; /* Increase font size for weather location */
+    }
+
+    .data {
+        font-size: 4vw; /* Increase font size for data */
+    }
+
+    .text {
+        font-size: 2vw; /* Increase font size for text */
+    }
+
+    .icon {
+        font-size: 3vw; /* Increase font size for icons */
+    }
+
+    .top-bar input {
+        width: 100%;
+        max-width: 362px;
+        height: 78px;
+        background: #ebfffc;
+        border: none;
+        outline: none;
+        border-radius: 40px;
+        padding-left: 40px;
+        color: #626262;
+        font-size: 20px;
+        font-weight: 400;
+    }
 }
 
 @keyframes glow {
