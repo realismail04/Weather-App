@@ -2,7 +2,7 @@
   margin: auto;
   font-size: 3.5rem;
   font-weight: 300;
-  text-align: center;
+  text-align: center !important;
   animation: lights 1.5s 75ms linear infinite;
 }
 
